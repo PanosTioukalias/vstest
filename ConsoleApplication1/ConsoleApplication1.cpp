@@ -8,6 +8,8 @@ int main()
 {
 	int i;
 	++i;
+	//This is a comment
+	int hello = i;
     return 0;
 }
 
